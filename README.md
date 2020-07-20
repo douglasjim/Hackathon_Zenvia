@@ -1,6 +1,7 @@
 # Hackathon_Zenvia
 Hackathon_Zenvia
 
+Temos intrucoes de como utlizar o software em foto também caso o readme nao funcione.
 
 Comandos para usar no CMD <br>
 
