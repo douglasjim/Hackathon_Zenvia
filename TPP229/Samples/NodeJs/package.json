@@ -11,7 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "jsonschema": "1.2.4",
-    "lodash": "4.17.13",
+    "lodash": "4.17.19",
     "loglevel": "1.6.3",
     "ozone-http-client": "file:../ozone-http-client",
     "ozone-jwt": "file:../ozone-jwt",
