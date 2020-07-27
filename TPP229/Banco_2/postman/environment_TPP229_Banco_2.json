@@ -1,0 +1,99 @@
+{
+  "id": "6f582d4a-79b3-48f2-a856-1bea8dd50bcd",
+  "version": "release-49",
+  "values": [
+    {
+      "enabled": true,
+      "key": "_clientId",
+      "value": "18c07b85-3016-4dbf-974e-215e549269ac",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "_clientSecret",
+      "value": "ce128ceb-ea0b-4cc7-9227-d6f36b19bc19",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "_environment",
+      "value": "Tecban Sandbox-2-prod",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "resourceServer",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "rs",
+      "value": "https://rs2.tecban-sandbox.o3bank.co.uk",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "resourceServerV20",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "obParticipantId",
+      "value": "c3c937c4-ab71-427f-9b59-4099b7c680ab",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "oidcClient",
+      "value": "18c07b85-3016-4dbf-974e-215e549269ac",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "basicToken",
+      "value": "MThjMDdiODUtMzAxNi00ZGJmLTk3NGUtMjE1ZTU0OTI2OWFjOmNlMTI4Y2ViLWVhMGItNGNjNy05MjI3LWQ2ZjM2YjE5YmMxOQ==",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "dummyBaseUrl",
+      "value": "x-open-banking/v1.1",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "issuer",
+      "value": "https://auth2.tecban-sandbox.o3bank.co.uk",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "tokenEndpoint",
+      "value": "https://as2.tecban-sandbox.o3bank.co.uk/token",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "authEndpoint",
+      "value": "https://auth2.tecban-sandbox.o3bank.co.uk/auth",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "configEndpoint",
+      "value": "https://auth2.tecban-sandbox.o3bank.co.uk/.well-known/openid-configuration",
+      "type": "text"
+    },
+    {
+      "enabled": true,
+      "key": "redirectUrl",
+      "value": "http://www.google.co.uk",
+      "type": "text"
+    }
+  ],
+  "timestamp": 1595437419450,
+  "_postman_variable_scope": "environment",
+  "_postman_exported_at": "2020-07-22T17:03:39.450Z",
+  "_postman_exported_using": "Postman/5.3.2",
+  "name": "TPP229_Banco_2"
+}
